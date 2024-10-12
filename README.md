@@ -1,5 +1,19 @@
 <a name="oben"></a>
 
+<div align="center">
+
+|[:skull:ISSUE](https://github.com/frankyhub/CamCar_Speedy/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/CamCar_Speedy/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/CamCar_Speedy/wiki)||
+|--|--|--|--|
+| | | | |
+|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2034-blue)|<a href="https://github.com/frankyhub/CamCar_Speedy/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/CamCar_Speedy)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/CamCar_Speedy)|<a href="https://github.com/frankyhub/CamCar_Speedy/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/CamCar_Speedy)|<a href="https://github.com/frankyhub/CamCar_Speedy/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/CamCar_Speedy)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/CamCar_Speedy)| <a href="https://github.com/frankyhub/CamCar_Speedy/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/CamCar_Speedy/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+</div>
+
+
+
+
+
+
 # CamCar_Speedy
 WEB-Server Steuerung mit  CAM-Bild
 
@@ -99,9 +113,14 @@ Mit dem Seriellen Monitor der Arduino IDE die IP-Adresse des WEB-Servers auslese
 
 ![Bild](pic/Speedy11.png)
 
+
+---
+
 <div style="position:absolute; left:2cm; ">   
 <ol class="breadcrumb" style="border-top: 2px solid black;border-bottom:2px solid black; height: 45px; width: 900px;"> <p align="center"><a href="#oben">nach oben</a></p></ol>
-</div> 
+</div>  
+
+---
 
 
 
