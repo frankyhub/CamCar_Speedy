@@ -105,7 +105,7 @@ Schritt 6: Das Akku-Case und den Motor-Treiber L298N auf die Bodenplatte montier
 
 ESP32-CAM mit der Halterung:
 
-<img src="pic/Speedy09.png" width="500"> 
+<img src="pic/Speedy09.jpg" width="500"> 
 <br> <br>
 
 Schritt 7: Das vordere Lenkrad montieren und die beiden Räder auf die Getriebemotore stecken.
