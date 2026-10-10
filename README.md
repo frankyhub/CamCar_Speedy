@@ -2,17 +2,14 @@
 
 <div align="center">
 
-|[:skull:ISSUE](https://github.com/frankyhub/CamCar_Speedy/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/CamCar_Speedy/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/CamCar_Speedy/wiki)||
+|[:skull:ISSUE](https://github.com/frankyhub/Paper-Circuit-BOT/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Paper-Circuit-BOT/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Paper-Circuit-BOT/wiki)||
 |--|--|--|--|
 | | | | |
-|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2034-blue)|<a href="https://github.com/frankyhub/CamCar_Speedy/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/CamCar_Speedy)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/CamCar_Speedy)|<a href="https://github.com/frankyhub/CamCar_Speedy/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/CamCar_Speedy)|<a href="https://github.com/frankyhub/CamCar_Speedy/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/CamCar_Speedy)|
-|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/CamCar_Speedy)| <a href="https://github.com/frankyhub/CamCar_Speedy/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/CamCar_Speedy/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+<a href="https://github.com/frankyhub/Paper-Circuit-BOT/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Paper-Circuit-BOT)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Paper-Circuit-BOT)|<a href="https://github.com/frankyhub/Paper-Circuit-BOT/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Paper-Circuit-BOT)|<a href="https://github.com/frankyhub/Paper-Circuit-BOT/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Paper-Circuit-BOT)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2034-blue)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Paper-Circuit-BOT)| <a href="https://github.com/frankyhub/Paper-Circuit-BOT/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Paper-Circuit-BOT/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
+
+
 </div>
-
-
-
-
-
 
 # CamCar_Speedy
 WEB-Server Steuerung mit  CAM-Bild
@@ -48,25 +45,32 @@ Der Aufbau und die Montage des CamCars ist in mehrere Schritte unterteilt.
 
 Schritt 1: Die Sperrholzplatte lasern
 
-![Bild](pic/Speedy01.png)
+
+<img src="pic/Speedy01.png" width="500"> 
+<br> <br>
 
 Schritt 2: Acht Platinenhalter drucken.
 
 Die Platinenhalter tragen den ESP32 und die H-Brücke. Sie werden auf die Bodenplatte geklebt.
 
-![Bild](pic/Speedy02.png)
+<img src="pic/Speedy02.png" width="500"> 
+<br> <br>
 
 Schritt 3: Die vier Getriebemotore auf die Bodenplatte montieren (Senkkopfschrauben M3x30).
 
 Die Lötfahnen zeigen jeweils nach innen.
 
-![Bild](pic/Speedy03.png)
+<img src="pic/Speedy03.png" width="500"> 
+<br> <br>
 
-![Bild](pic/Speedy04.png)
+<img src="pic/Speedy04.png" width="500"> 
+<br> <br>
 
 Schritt 4: Die Bauelemente nach Schaltplan verdrahten.
 
-![Bild](pic/Speedy05.png)
+<img src="pic/Speedy05.png" width="500"> 
+<br> <br>
+
 
 ESP32-CAM - L298N Verdahtung:
 
@@ -84,24 +88,25 @@ ESP32-CAM - L298N Verdahtung:
 
 Den ESP32 auf das ESP-Shield stecken und nach Schaltplan verdrahten.
 
-![Bild](pic/Speedy06.png)
-
+<img src="pic/Speedy06.png" width="500"> 
+<br> <br>
 
 L298N Verdahtung:
 
-![Bild](pic/Speedy07.png)
+<img src="pic/Speedy07.png" width="500"> 
+<br> <br>
 
 Schritt 5: Im Programm die Static-IP-Adresse ändern, die WLAN-Daten eintragen und dann das Programm in den ESP32-CAM laden und einen Funktionstest durchführen.
 
 Schritt 6: Das Akku-Case und den Motor-Treiber L298N auf die Bodenplatte montieren. Den ESP32-CAM mit dem Shield auf die Oberseite montieren.
 
-![Bild](pic/Speedy08.png)
-
+<img src="pic/Speedy08.png" width="500"> 
+<br> <br>
 
 ESP32-CAM mit der Halterung:
 
-![Bild](pic/Speedy09.jpg)
-
+<img src="pic/Speedy09.png" width="500"> 
+<br> <br>
 
 Schritt 7: Das vordere Lenkrad montieren und die beiden Räder auf die Getriebemotore stecken.
 
@@ -109,10 +114,11 @@ Schritt 8: Funktionstest.
 
 Mit dem Seriellen Monitor der Arduino IDE die IP-Adresse des WEB-Servers auslesen und im Browser den WEB-Server aufrufen z.B. 192.168.1.184 
 
-![Bild](pic/Speedy10.png)
+<img src="pic/Speedy10.png" width="500"> 
+<br> <br>
 
-![Bild](pic/Speedy11.png)
-
+<img src="pic/Speedy11.png" width="500"> 
+<br> <br>
 
 ---
 
